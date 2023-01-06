@@ -11,11 +11,11 @@
 
 - 💬 Ask me about **Full Stack Development, Digital Designs & Blockchain**
 
-- 📫 How to reach me **sakwaedgar57@gmail.com**
+- 📫 How to reach me: **sakwaedgar57@gmail.com**
 
 - 📄 Know about my experiences [bit.ly/bwanatemba](bit.ly/bwanatemba)
 
-- ⚡ Fun fact **Bitcoin only**
+- ⚡ Fun fact: **Bitcoin only**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
